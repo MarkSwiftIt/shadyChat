@@ -1,0 +1,53 @@
+[
+    {
+        "username": "Eminem",
+        "avatarStringURL": "Eminem",
+        "id": 1
+    },
+    {
+        "username": "Madison Beer",
+        "avatarStringURL": "Beer",
+        "id": 2
+    },
+    {
+        "username": "Rihanna",
+        "avatarStringURL": "Rihanna",
+        "id": 3
+    },
+    {
+        "username": "The Weeknd",
+        "avatarStringURL": "Weeknd",
+        "id": 4
+    },
+    {
+        "username": "Ester esposito",
+        "avatarStringURL": "Ester",
+        "id": 5
+    },
+    {
+        "username": "Eminem",
+        "avatarStringURL": "Eminem",
+        "id": 6
+    },
+    {
+        "username": "Madison Beer",
+        "avatarStringURL": "Beer",
+        "id": 7
+    },
+    {
+        "username": "Rihanna",
+        "avatarStringURL": "Rihanna",
+        "id": 8
+    },
+    {
+        "username": "The Weeknd",
+        "avatarStringURL": "Weeknd",
+        "id": 9
+    },
+    {
+        "username": "Ester esposito",
+        "avatarStringURL": "Ester",
+        "id": 10
+    }
+]
+

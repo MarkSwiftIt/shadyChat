@@ -1,0 +1,32 @@
+[
+    {
+        "username": "Elon Musk",
+        "userImageString": "Elon",
+        "lastMessage": "Will you fly with me?",
+        "id": 6
+    },
+    {
+        "username": "Bella Poarch",
+        "userImageString": "Bella",
+        "lastMessage": "Wow!",
+        "id": 7
+    },
+    {
+        "username": "Mark Zuckerberg",
+        "userImageString": "MarkZuck",
+        "lastMessage": "You are hired!",
+        "id": 8
+    },
+    {
+        "username": "Kendall Jenner",
+        "userImageString": "Kendall",
+        "lastMessage": "Nice to meet you",
+        "id": 9
+    },
+    {
+        "username": "Cristiano Ronaldo",
+        "userImageString": "Ronaldo",
+        "lastMessage": "Come to the match?",
+        "id": 10
+    }
+]

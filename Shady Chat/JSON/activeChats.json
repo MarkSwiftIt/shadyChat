@@ -1,0 +1,34 @@
+[
+    {
+        "username": "Eminem",
+        "userImageString": "Eminem",
+        "lastMessage": "How's life?",
+        "id": 1
+    },
+    {
+        "username": "Madison Beer",
+        "userImageString": "Beer",
+        "lastMessage": "Where are you?",
+        "id": 2
+    },
+    {
+        "username": "Rihanna",
+        "userImageString": "Rihanna",
+        "lastMessage": "Come here",
+        "id": 3
+    },
+    {
+        "username": "The Weeknd",
+        "userImageString": "Weeknd",
+        "lastMessage": "Will you be in the clip?",
+        "id": 4
+    },
+    {
+        "username": "Ester esposito",
+        "userImageString": "Ester",
+        "lastMessage": "Where are you?!",
+        "id": 5
+    }
+]
+
+
