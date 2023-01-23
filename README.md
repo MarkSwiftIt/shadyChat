@@ -23,7 +23,6 @@ The following tools were used in this project:
 - Real - time chat
 - Firebase  
 - SDK Fasebook
-- Clean Swift
 
 
 
